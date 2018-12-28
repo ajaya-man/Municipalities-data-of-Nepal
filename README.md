@@ -2,7 +2,8 @@
 This repo contains all the municipalities list of Nepal in JSON format along with its district, province and type of Municipality.
 
 ### Sample Data
-```{
+```
+{
       "क्र.स.": "1",
       "स्थानीय तहको नाम": "फुङलिङ नगरपालिका",
       "जिल्ला": "ताप्लेजुङ",
